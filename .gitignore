@@ -157,8 +157,9 @@ nbdist/
 !.vscode/extensions.json
 *.code-workspace
 
-!/.idea/
 !/core/core.iml
 !/course/.mvn/
 !/course/course.iml
 !/course/HELP.md
+/devdojo-microservices.iml
+/.idea/

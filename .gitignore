@@ -158,7 +158,7 @@ nbdist/
 *.code-workspace
 
 /.idea/
-/**/.mvn/
-/**/target/
-/**/HELP.md
-/**/*.iml
+/core/core.iml
+/course/.mvn/
+/course/course.iml
+/course/HELP.md

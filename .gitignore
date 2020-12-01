@@ -157,3 +157,8 @@ nbdist/
 !.vscode/extensions.json
 *.code-workspace
 
+/.idea/
+/**/.mvn/
+/**/target/
+/**/HELP.md
+/**/*.iml

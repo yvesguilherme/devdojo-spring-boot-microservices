@@ -18,3 +18,7 @@ eureka:
 zuul:
   # Se não colocar isso, o authorization será removido
   sensitive-headers: Cookie
+
+jwt:
+  config:
+    login-url: /auth/login

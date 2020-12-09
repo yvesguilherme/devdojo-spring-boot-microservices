@@ -8,7 +8,7 @@ import org.springframework.boot.context.properties.NestedConfigurationProperty;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@ConfigurationProperties(prefix = "jxt.config")
+@ConfigurationProperties(prefix = "jwt.config")
 @Getter
 @Setter
 @ToString
